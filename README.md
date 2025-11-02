@@ -1,17 +1,51 @@
-<h1 align="center">Hi 👋, I'm AnhTinhTai</h1>
-<h3 align="center">💻 I'm a Laravel & React developer 🌱 Currently learning: Docker, CI/CD</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhtinhtai&label=Profile%20views&color=0e75b6&style=flat" alt="anhtinhtai" /> </p>
+# Xin chào! 👋 Tôi là [Tên của bạn]  
+*(Thay thế bằng tên thật và username GitHub của bạn)*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhtinhtai" alt="anhtinhtai" /></a> </p>
+![Web Developer](https://img.shields.io/badge/Web%20Developer-Frontend%20Focus-brightgreen?style=for-the-badge&logo=html5&logoColor=white)  
+![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge&logo=flag&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Chào mừng bạn đến với profile GitHub của tôi! Tôi là một lập trình viên web đam mê tạo ra các giao diện đẹp mắt, đặc biệt là những thiết kế lãng mạn và chủ đề lễ hội như Tết Trung Thu hay Valentine. Với kinh nghiệm về HTML, CSS và JavaScript, tôi thích xây dựng các dự án sáng tạo trên localhost, sử dụng laptop Dell Inspiron và màn hình ngoài để phát triển frontend mượt mà.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtinhtai&show_icons=true&locale=en&layout=compact" alt="anhtinhtai" /></p>
+*(Thay [your-username] bằng username GitHub thực tế để stats tự động cập nhật.)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhtinhtai&" alt="anhtinhtai" /></p>
+## 🛠️ Kỹ Năng Chính
+- **Frontend Development**: HTML5, CSS3 (bao gồm animations và 3D effects), JavaScript (ES6+).  
+- **Công Cụ**: VS Code, Git, Vercel cho hosting dự án.  
+- **Thiết Kế**: Tạo giao diện lãng mạn với heart animations, text spinning và background động.  
+- **Khác**: Thiết kế cơ sở dữ liệu cho hệ thống quản lý thực phẩm, tích hợp hệ thống tài chính quốc tế.  
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,vercel,postgres)](https://skillicons.dev)
+
+## 🌟 Dự Án Nổi Bật
+- **Giao Diện Lãng Mạn Trung Thu**: Trang web với hiệu ứng 3D heart, thỏ nhảy lồng đèn và nhạc nền truyền thống – một món quà code cho người yêu.  
+  *(Liên kết: [Repo Link](https://github.com/your-username/romantic-midautumn))*  
+- **Hệ Thống Quản Lý Ẩm Thực**: Database design cho công thức món ăn Việt Nam như phở, gà kho gừng, phục vụ bữa ăn cho 20 người.  
+  *(Liên kết: [Repo Link](https://github.com/your-username/food-db))*  
+- **Công Cụ Tự Động Hóa Email**: Script quản lý email khuyến mãi và tóm tắt trang web cho streaming phim miễn phí.  
+  *(Liên kết: [Repo Link](https://github.com/your-username/email-automation))*  
+
+## 🔥 Sở Thích & Học Hỏi
+- **Ẩm Thực**: Thích nấu các món Việt truyền thống, lập kế hoạch menu cho nhóm lớn mà không dùng hải sản.  
+- **Giải Trí**: Xem phim Avatar series và tìm site streaming miễn phí, đặc biệt nội dung Việt Nam.  
+- **Phát Triển**: Đang học advanced CSS animations, 3D web effects và tích hợp hệ thống ngân hàng quốc tế như VPBank/Techcombank.  
+- **Mục Tiêu**: Xây dựng portfolio với các dự án lễ hội, cải thiện kỹ năng database cho ứng dụng quản lý dòng tiền.  
+
+## 📫 Liên Hệ Với Tôi
+- 📧 Email: [your-email@example.com]  
+- 🌐 Website: [your-personal-site.com] (nếu có)  
+- 🐦 Twitter/LinkedIn: [@your-handle]  
+- 📍 Địa Chỉ: Tuyên Quang, Việt Nam (dựa trên múi giờ +07)  
+
+Cảm ơn bạn đã ghé thăm! Hãy star repo nếu bạn thích, và liên hệ nếu muốn hợp tác trên dự án web dev hoặc chia sẻ công thức nấu ăn Việt. 🇻🇳✨
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=[your-username].README.md)
+
+*(Thêm badge visitor bằng cách tạo workflow GitHub Actions cho dynamic updates.)*
+
+</div>
